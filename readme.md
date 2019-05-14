@@ -1,4 +1,6 @@
-# Hey, here's my test page for the Lab 01 "Learning Markdown"
+# Hey, my name is Leo and you're visiting my learning journal at Code Fellows 102 class
+
+## Day 01 "Learning Markdown"
 
 #### *A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning*
 
@@ -17,5 +19,16 @@
 - [x] accept others' criticism
 - [ ] be genuinly happy for others' success
 - [ ] do not stop with current achievement and always aim for more
+
+## Day 02 "The Coder's Computer"
+
+#### The most popular text editors for coding:
+- NotePad++ (Windows only);
+- TextWrangler/BB Edit (Mac only);
+- Visual Studio Code (Microsoft, Cross-platform);
+- Atom (GitHub, Cross-platform);
+- Brackets (Adobe, Cross-platform);
+- Sublime Text (Cross-platform);
+
 
 Here you can see my github portfolio: [LeoKuhorev at GitHub](https://leokuhorev.github.io/)
