@@ -18,4 +18,4 @@
 - [ ] be genuinly happy for others' success
 - [ ] do not stop with current achievement and always aim for more
 
-
+Here you can see my github portfolio: [LeoKuhorev at GitHub](https://leokuhorev.github.io/)
