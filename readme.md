@@ -4,6 +4,8 @@
 
 #### *By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort*
 
+![Here's the stolen image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+
 
 **To keep myself in a growth mindsed i should:**
 - accept new challenges as learnig new stuff is fun!
