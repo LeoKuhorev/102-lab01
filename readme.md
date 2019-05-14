@@ -8,9 +8,9 @@
 
 
 **To keep myself in a growth mindset i should:**
-- accept new challenges as learnig new stuff is fun!
-- keep working hard as this is the only way to achieve more;
-- get inspired by other's success as if I work hard I'll be there one day as well.
+- :heavy_check_mark: accept new challenges as learnig new stuff is fun!
+- :heavy_check_mark: keep working hard as this is the only way to achieve more;
+- :heavy_check_mark: get inspired by other's success as if I work hard I'll be there one day as well.
 
 **What challenges I've overcome to keep myself in a growth mindset?**
 
