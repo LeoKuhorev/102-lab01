@@ -12,10 +12,10 @@
 - keep working hard as this is the only way to achieve more;
 - get inspired by other's success as if I work hard I'll be there one day as well.
 
-**What challenges do I have with keeping myself in a growth mindset?**
+**What challenges I've overcome to keep myself in a growth mindset?**
 
--[x] accept others' criticism
--[] be genuinly happy for others' success
--[] do not stop with current achievement and always aim for more
+- [x] accept others' criticism
+- [ ] be genuinly happy for others' success
+- [ ] do not stop with current achievement and always aim for more
 
 
