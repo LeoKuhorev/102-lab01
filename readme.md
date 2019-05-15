@@ -1,4 +1,5 @@
-# Hey, my name is Leo and you're visiting my learning journal at Code Fellows 102 class
+# Hey, thanks for visiting my page. My name is Leo and you're looking at my learning journal at Code Fellows 102 class
+Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhorev.github.io/)
 
 ### **Contents:**
 - [Day 01 - Learning Markdown](https://github.com/LeoKuhorev/test0513/blob/master/readme.md#day-01-learning-markdown)
@@ -23,7 +24,7 @@
 #### GitHub Markdown
 Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Some of the features can be used only within GitHub (Flavored Markdown)
 **GitHub Markdown Cheat sheet:**
-[here yoy can read more about it](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+[here you can read more about it](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 ## Day 02 "The Coder's Computer"
 
@@ -34,6 +35,3 @@ Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Som
 - Atom (GitHub, Cross-platform);
 - Brackets (Adobe, Cross-platform);
 - Sublime Text (Cross-platform);
-
-
-Here you can see my github portfolio: [LeoKuhorev at GitHub](https://leokuhorev.github.io/)
