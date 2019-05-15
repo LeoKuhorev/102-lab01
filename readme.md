@@ -8,7 +8,8 @@ Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhore
 
 <h2 id="day1"> Day 01 "Learning Markdown" </h2>
 
-#### Growth vs Fixed mindset
+**GROWTH vs FIXED MINDSET**
+
 *A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning*
 *By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort*
 ![Here's the stolen image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
@@ -25,14 +26,15 @@ Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhore
 
 <a href="#contents">go back to contents </a>
 
-#### GitHub Markdown
+**GITHUB MARKDOWN**
+
 Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Some of the features can be used only within GitHub (Flavored Markdown)
 **GitHub Markdown Cheat sheet:**
 [here you can read more about it](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 <h2 id="day2"> Day 02 "The Coder's Computer" </h2>
 
-#### The most popular text editors for coding:
+**THE MOST POPULAR TEXT EDITORS FOR CODING:**
 - NotePad++ (Windows only);
 - TextWrangler/BB Edit (Mac only);
 - Visual Studio Code (Microsoft, Cross-platform);
@@ -40,7 +42,8 @@ Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Som
 - Brackets (Adobe, Cross-platform);
 - Sublime Text (Cross-platform);
 
-#### Command line/Terminal/Shell
+**COMMAND LINE/TERMINAL/SHELL**
+
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 The command line typically presents you with a prompt. Then you can enter a command (ls, pwd, cd etc). The command can be followed by arguments separated by spaces (eg -l /home/ryan ). The first command line argument ( -l ) is also referred to as an option. Options are typically used to modify the behaviour of the command. Options are usually listed before other arguments and typically start with a dash ( - ). 
 
