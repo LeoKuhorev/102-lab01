@@ -20,6 +20,9 @@
 - [ ] be genuinly happy for others' success
 - [ ] do not stop with current achievement and always aim for more
 
+**GitHub Markdown Cheat sheet:**
+[here yoy can read more about it](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
 ## Day 02 "The Coder's Computer"
 
 #### The most popular text editors for coding:
