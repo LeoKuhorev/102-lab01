@@ -2,10 +2,11 @@
 Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhorev.github.io/)
 
 ### **Contents:**
-- [Day 01 - Learning Markdown](https://github.com/LeoKuhorev/test0513/blob/master/readme.md#day-01-learning-markdown)
-- [Day 02 - The Coder's Computer](https://github.com/LeoKuhorev/test0513/blob/master/readme.md#day-02-the-coders-computer)
+- <a href="day1">Day 01 - Learning Markdown </a>
+- <a href="day2">Day 02 - The Coder's Computer </a>
 
-## Day 01 "Learning Markdown"
+<h2 id="day1"> Day 01 "Learning Markdown" </h2>
+
 #### Growth vs Fixed mindset
 *A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning*
 *By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort*
@@ -26,7 +27,7 @@ Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Som
 **GitHub Markdown Cheat sheet:**
 [here you can read more about it](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-## Day 02 "The Coder's Computer"
+<h2 id="day2"> Day 02 "The Coder's Computer" </h2>
 
 #### The most popular text editors for coding:
 - NotePad++ (Windows only);
