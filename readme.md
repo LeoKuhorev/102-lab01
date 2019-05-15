@@ -2,8 +2,8 @@
 Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhorev.github.io/)
 
 ### **Contents:**
-- <a href="day1">Day 01 - Learning Markdown </a>
-- <a href="day2">Day 02 - The Coder's Computer </a>
+- <a href="#day1">Day 01 - Learning Markdown </a>
+- <a href="#day2">Day 02 - The Coder's Computer </a>
 
 <h2 id="day1"> Day 01 "Learning Markdown" </h2>
 
