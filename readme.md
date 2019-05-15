@@ -1,7 +1,8 @@
 # Hey, thanks for visiting my page. My name is Leo and you're looking at my learning journal at Code Fellows 102 class
 Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhorev.github.io/)
 
-### **Contents:**
+<h2 id="contents"> Contents: </h2>
+
 - <a href="#day1">Day 01 - Learning Markdown </a>
 - <a href="#day2">Day 02 - The Coder's Computer </a>
 
@@ -22,6 +23,8 @@ Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhore
 - [ ] be genuinly happy for others' success
 - [ ] do not stop with current achievement and always aim for more
 
+<a href="#contents">go back to contents </a>
+
 #### GitHub Markdown
 Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Some of the features can be used only within GitHub (Flavored Markdown)
 **GitHub Markdown Cheat sheet:**
@@ -36,3 +39,5 @@ Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Som
 - Atom (GitHub, Cross-platform);
 - Brackets (Adobe, Cross-platform);
 - Sublime Text (Cross-platform);
+
+<a href="#contents">go back to contents </a>
