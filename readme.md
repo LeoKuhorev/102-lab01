@@ -1,5 +1,9 @@
 # Hey, my name is Leo and you're visiting my learning journal at Code Fellows 102 class
 
+**Contents:**
+- [Day 01 - Learning Markdown](https://github.com/LeoKuhorev/test0513/blob/master/readme.md#day-01-learning-markdown)
+- [Day 02 - The Coder's Computer](https://github.com/LeoKuhorev/test0513/blob/master/readme.md#day-02-the-coders-computer)
+
 ## Day 01 "Learning Markdown"
 
 #### *A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning*
