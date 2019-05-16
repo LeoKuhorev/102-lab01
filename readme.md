@@ -63,7 +63,13 @@ The command line typically presents you with a prompt. Then you can enter a comm
     8 - directory/file name.
     - **_/etc_** - lists not the curren directory but instead that directories contents;
     - you can also combine them (_ls -l /etc_ - will show long listing of directories contents).
-- **_cd_** (Change Directory) - changes your current location;
+- **_cd_** (Change Directory) - changes your current location (*cd Documents*, *cd ~/Documents*, *cd /*);
+
+**PATHS: ABSOLUTE AND RELATIVE**
+The very tp of Linux hierarchical structure is /ROOT (/).
+    - **_~_** - home directory (~/Documents = home/ryan/Documents);
+    - **_._** - current directory (./Documents = Documents);
+    - **_.._** - parent directory (../../ will bring you 2 directories above the one you're in).
 
 
 <a href="#contents">go back to contents </a>
