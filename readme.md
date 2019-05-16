@@ -66,10 +66,11 @@ The command line typically presents you with a prompt. Then you can enter a comm
 - **_cd_** (Change Directory) - changes your current location (*cd Documents*, *cd ~/Documents*, *cd /*);
 
 **PATHS: ABSOLUTE AND RELATIVE**
-The very tp of Linux hierarchical structure is /ROOT (/).
-    - **_~_** - home directory (~/Documents = home/ryan/Documents);
-    - **_._** - current directory (./Documents = Documents);
-    - **_.._** - parent directory (../../ will bring you 2 directories above the one you're in).
+
+The very top of Linux hierarchical structure is /ROOT (/).
+- **_~(tilde)_** - home directory (~/Documents = home/ryan/Documents);
+- **_.(dot)_** - current directory (./Documents = Documents);
+- **_..(dotdot)_** - parent directory (../../ will bring you 2 directories above the one you're in).
 
 
 <a href="#contents">go back to contents </a>
