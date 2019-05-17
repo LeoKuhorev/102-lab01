@@ -84,6 +84,6 @@ The very top of Linux hierarchical structure is /ROOT (/).
 If you need to use path that contains spaces use quotes ' or " (cd 'Holiday Photos') or escape character (cd Holiday\ Photos). 
 Hidden files or directories start with **"."**(full stop). For example: .file.txt
 
-
+Here you can find [computer setup guide](http://codefellows.github.io/code-201-prework/prework/).
 
 <a href="#contents">go back to contents </a>
