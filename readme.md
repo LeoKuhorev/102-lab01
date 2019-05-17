@@ -64,6 +64,12 @@ The command line typically presents you with a prompt. Then you can enter a comm
     - **_/etc_** - lists not the curren directory but instead that directories contents;
     - you can also combine them (_ls -l /etc_ - will show long listing of directories contents).
 - **_cd_** (Change Directory) - changes your current location (*cd Documents*, *cd ~/Documents*, *cd /*);
+- **_code_** - open VS Code (or whatever text editor you set it up for);
+- **_cd $wr_** - brings to Windows FS root foldel;
+- **_cdwr_** - in our particular */.profile* (this file stores terminal's profile settings) brings to Windows FS root;
+- **_cd ~_** - brings to Linux FS root;
+- **_cd /mnt_** - go to drives list;
+- **_sudo apt-get upgrade_** - get updates.
 
 **PATHS: ABSOLUTE AND RELATIVE**
 
