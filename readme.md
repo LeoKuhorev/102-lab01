@@ -63,6 +63,7 @@ Linux is case sensitive!
     7 - last edited;
     8 - directory/file name.
     - **_/etc_** - lists not the curren directory but instead that directories contents;
+    - **_-a_** - lists hidden files;
     - you can also combine them (_ls -l /etc_ - will show long listing of directories contents).
 - **_cd_** (Change Directory) - changes your current location (*cd Documents*, *cd ~/Documents*, *cd /*);
     - **_cd $wr_** - brings to Windows FS root foldel;
@@ -70,7 +71,8 @@ Linux is case sensitive!
     - **_cd ~_** - brings to Linux FS root;
     - **_cd /mnt_** - go to drives list;
 - **_code_** - open VS Code (or whatever text editor you set it up for);
-- **_sudo apt-get upgrade_** - get updates.
+- **_sudo apt-get upgrade_** - get updates;
+- **_file_** - obtains information about what type of file a file or directory is.
 
 **PATHS: ABSOLUTE AND RELATIVE**
 
@@ -79,7 +81,9 @@ The very top of Linux hierarchical structure is /ROOT (/).
 - **_.(dot)_** - current directory (./Documents = Documents);
 - **_..(dotdot)_** - parent directory (../../ will bring you 2 directories above the one you're in).
 
-If you need to use path that contains spaces use quotes ' or " (cd 'Holiday Photos') or escape character (cd Holiday\ Photos)
+If you need to use path that contains spaces use quotes ' or " (cd 'Holiday Photos') or escape character (cd Holiday\ Photos). 
+Hidden files or directories start with **"."**(full stop). For example: .file.txt
+
 
 
 <a href="#contents">go back to contents </a>
