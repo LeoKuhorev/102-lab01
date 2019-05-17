@@ -46,6 +46,7 @@ Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Som
 
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 The command line typically presents you with a prompt. Then you can enter a command (ls, pwd, cd etc). The command can be followed by arguments separated by spaces (eg -l /home/ryan ). The first command line argument ( -l ) is also referred to as an option. Options are typically used to modify the behaviour of the command. Options are usually listed before other arguments and typically start with a dash ( - ). 
+Linux is case sensitive!
 
 **COMMAND LIST:**
 - **_pwd_** (Print Working Directory) - tells you whar directorey you're at;
@@ -64,11 +65,11 @@ The command line typically presents you with a prompt. Then you can enter a comm
     - **_/etc_** - lists not the curren directory but instead that directories contents;
     - you can also combine them (_ls -l /etc_ - will show long listing of directories contents).
 - **_cd_** (Change Directory) - changes your current location (*cd Documents*, *cd ~/Documents*, *cd /*);
+    - **_cd $wr_** - brings to Windows FS root foldel;
+    - **_cdwr_** - in our particular */.profile* (this file stores terminal's profile settings) brings to Windows FS root;
+    - **_cd ~_** - brings to Linux FS root;
+    - **_cd /mnt_** - go to drives list;
 - **_code_** - open VS Code (or whatever text editor you set it up for);
-- **_cd $wr_** - brings to Windows FS root foldel;
-- **_cdwr_** - in our particular */.profile* (this file stores terminal's profile settings) brings to Windows FS root;
-- **_cd ~_** - brings to Linux FS root;
-- **_cd /mnt_** - go to drives list;
 - **_sudo apt-get upgrade_** - get updates.
 
 **PATHS: ABSOLUTE AND RELATIVE**
@@ -77,6 +78,8 @@ The very top of Linux hierarchical structure is /ROOT (/).
 - **_~(tilde)_** - home directory (~/Documents = home/ryan/Documents);
 - **_.(dot)_** - current directory (./Documents = Documents);
 - **_..(dotdot)_** - parent directory (../../ will bring you 2 directories above the one you're in).
+
+If you need to use path that contains spaces use quotes ' or " (cd 'Holiday Photos') or escape character (cd Holiday\ Photos)
 
 
 <a href="#contents">go back to contents </a>
