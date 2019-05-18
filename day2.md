@@ -41,7 +41,7 @@ Linux is case sensitive!
 - **_clear_** - clear terminal window;
 - **_man_** - open manual (for example *man tree*);
 - **_mkdir_** - create new folder;
-- '**_sudo apt-get upgrade_**' - get updates;
+- `sudo apt-get upgrade` - get updates;
 - **_file_** - obtains information about what type of file a file or directory is.
 
 **PATHS: ABSOLUTE AND RELATIVE**
