@@ -27,7 +27,7 @@ Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhore
 
 <a href="#contents">go back to contents </a>
 
-**GITHUB MARKDOWN**
+**GitHub Markdown**
 
 Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Some of the features can be used only within GitHub (Flavored Markdown)
 **GitHub Markdown Cheat sheet:**

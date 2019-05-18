@@ -4,6 +4,7 @@
 - NotePad++ (Windows only);
 - TextWrangler/BB Edit (Mac only);
 - Visual Studio Code (Microsoft, Cross-platform);
+    - press ctrl+D for multiple selection;
 - Atom (GitHub, Cross-platform);
 - Brackets (Adobe, Cross-platform);
 - Sublime Text (Cross-platform);
@@ -39,7 +40,7 @@ Linux is case sensitive!
 - `code` - open VS Code (or whatever text editor you set it up for);
     - `code .` - open all files in current directory in VS Code;
 - `clear` - clear terminal window;
-- `man` - open manual (for example *man tree*);
+- `man` - open manual (for example *man tree*); 
 - `mkdir` - create new folder;
 - `sudo apt-get upgrade` - get updates;
 - `file` - obtains information about what type of file a file or directory is.

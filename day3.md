@@ -17,7 +17,14 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 - `git add --all (or filename)`;
 - `git status` - file name(s) should be green now;
 - `git commit -m "message that makes some sense to you"`;
-- `git push origin master`.
+- `git push origin master`;
+
+- if there were some changes made on GitHub, you'll have to do `git pull origin master` first to download your files.
+
+There are three ways to get more information on a particular command, by accessing the manual:
+- `git help command`
+- `git command --help`
+- `man git-command`
 
 
 [Go back to page 1](readme.md)
