@@ -25,11 +25,11 @@ Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhore
 - [ ] be genuinly happy for others' success
 - [x] do not stop with current achievement and always aim for more
 
-<a href="#contents">go back to contents </a>
-
 **GitHub Markdown**
 
 Markdown is an easy-to-read, easy-to-write syntax for formatting plain text. Some of the features can be used only within GitHub (Flavored Markdown)
-**GitHub Markdown Cheat sheet:**
 
+**GitHub Markdown Cheat sheet:**
 [here you can read more about it](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+<a href="#contents">go back to contents </a>
