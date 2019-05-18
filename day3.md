@@ -1,4 +1,4 @@
-## Day 03 "Revisions and the Cloud" ##
+## Day 03 "Revisions and the Cloud" 
 
 **VERSION CONTROL SYSTEM AND GIT**
 

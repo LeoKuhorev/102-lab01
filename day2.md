@@ -1,4 +1,4 @@
-##Day 02 "The Coder's Computer"
+## Day 02 "The Coder's Computer" 
 
 **THE MOST POPULAR TEXT EDITORS FOR CODING:**
 - NotePad++ (Windows only);
