@@ -21,8 +21,8 @@ Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhore
 
 **What challenges I've overcome to keep myself in a growth mindset?**
 - [x] accept others' criticism
-- [] be genuinly happy for others' success
-- [] do not stop with current achievement and always aim for more
+- [ ] be genuinly happy for others' success
+- [x] do not stop with current achievement and always aim for more
 
 <a href="#contents">go back to contents </a>
 
