@@ -37,6 +37,10 @@ Linux is case sensitive!
     - **_cd ~_** - brings to Linux FS root;
     - **_cd /mnt_** - go to drives list;
 - **_code_** - open VS Code (or whatever text editor you set it up for);
+    - **_code ._** - open all files in current directory in VS Code;
+- **_clear_** - clear terminal window;
+- **_man_** - open manual (for example *man tree*);
+- **_mkdir_** - create new folder;
 - **_sudo apt-get upgrade_** - get updates;
 - **_file_** - obtains information about what type of file a file or directory is.
 
