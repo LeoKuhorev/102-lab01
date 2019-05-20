@@ -5,6 +5,9 @@
 - TextWrangler/BB Edit (Mac only);
 - Visual Studio Code (Microsoft, Cross-platform);
     - press ctrl+D for multiple selection;
+    - `Ctrl+Shift+P` - look up addition information;
+    - `Alt+B` - open in browser;
+    - `Ctrl+/` - comment/uncomment;
 - Atom (GitHub, Cross-platform);
 - Brackets (Adobe, Cross-platform);
 - Sublime Text (Cross-platform);
