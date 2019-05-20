@@ -42,7 +42,7 @@ More tags:
 
 JavaScript is case sensitive!  
 `document.write('Good Afternoon!');` will print "Good Afternoon!" whenever this line is inserted:  
-`<script src="js/add-content.js"></script>
+`<script src="js/add-content.js"></script>`
 
 Main features:
 - flow control (how we make decisions);
