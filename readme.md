@@ -7,6 +7,7 @@ Here you can see my other github pages: [LeoKuhorev at GitHub](https://leokuhore
 - [Day 02 - The Coder's Computer](day2.md)
 - [Day 03 - Revisions and the Cloud](day3.md)
 - [Day 04 - HTML, CSS and JS](day4.md)
+- [Day 05 - Intro to JS](day5.md)
 
 <h2 id="day1"> Day 01 "Learning Markdown" </h2>
 
